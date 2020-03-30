@@ -1,0 +1,22 @@
+.container {
+    box-sizing: border-box;
+    float: left;
+    width: 15%;
+    background-color: #348b7f;
+    color: #ffffff;
+    text-align: center;
+}    
+
+#right {
+    margin-left: 100px;
+    padding-left: 50%;
+}
+
+#mainbox {
+    box-sizing: border-box;
+    padding: 0%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
