@@ -1,5 +1,6 @@
 .header1 {
     margin: 0px;
+    width: 100%;
     border: 0px;
     padding: 80px 0px 0px 0px;
     box-sizing: border-box;
@@ -23,7 +24,7 @@
 }   
 
 body {
-    background-image: url("file:///Users/miguelcruz/Desktop/first_day_stuff/homework/Basic-Portfolio/assets/images/y-so-serious/y-so-serious.png");
+    background-image: url("file:///Users/miguelcruz/Desktop/School/Basic-Portfolio/assets/images/y-so-serious/y-so-serious.png");
 }
 
 a {
@@ -50,6 +51,7 @@ a {
 p {
     color: #777777;
     line-height: 2;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;;
 }
 
 #box {
@@ -80,5 +82,6 @@ p {
     text-align: center;
     background-color: #666666;
     color: #dddddd;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
    
 }

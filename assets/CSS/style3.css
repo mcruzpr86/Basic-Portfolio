@@ -1,0 +1,10 @@
+#box3 {
+    box-sizing: border-box;
+    float: left;
+    margin: 40px 240px 90px 150px;
+    border: 1px solid;
+    padding: 40px 60px 60px 60px;
+    display: block;
+    border-color: #dddddd;
+    background-color: #ffffff;
+}
