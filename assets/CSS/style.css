@@ -71,6 +71,10 @@ p {
     margin-top: 1px;
 }
 
+.button {
+    background-color: #ffffff;
+}
+
 .fo-container {
     padding: 30px;
     clear: both;
