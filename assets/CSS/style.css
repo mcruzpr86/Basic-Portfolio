@@ -1,3 +1,4 @@
+/*header style linked to all pages*/
 .header1 {
     margin: 0px;
     width: 100%;
@@ -8,8 +9,8 @@
     border-color: #cccccc;
     font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
     border-bottom: 1px solid #cccccc;
-}
-
+} 
+/* container style for main body */
 .box {
     box-sizing: border-box;
     float: left;
@@ -22,17 +23,17 @@
     margin-top: -20px;
     
 }   
-
+/*background wallpaper */
 body {
     background-image: url("file:///Users/miguelcruz/Desktop/School/Basic-Portfolio/assets/images/y-so-serious/y-so-serious.png");
 }
-
+/*anchor style to chage font color and remove underline*/
 a {
     color: #777777;
     text-decoration: none;
     
 }
-
+/*image style*/
 .hero-images {
     float: left;
     width: 200px;
@@ -40,14 +41,14 @@ a {
     padding: 10x 10px 10px 40px;
     margin: 10px 10px 10px 2px;
 }
-
+/*move links to the right of page*/
 #right {
     margin-left: 200px;
     padding-left: 55%;
     padding-bottom: 40px;
     
 }
-
+/*style p tags*/
 p {
     color: #777777;
     line-height: 2;
@@ -71,10 +72,11 @@ p {
     font-size: 40px;
     margin-top: 1px;
 }
-
+/*footer linked to all pages*/
 .fo-container {
     padding: 60px 0px 5px 0px ;
     margin: 100px 0px 0px 0px;
+    border-top: 8px solid #4aaaa5;
     clear: both;
     position: relative;
     width: 100%;

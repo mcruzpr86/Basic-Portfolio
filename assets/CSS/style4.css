@@ -1,9 +1,10 @@
+/* stylesheet for portfolio page*/
 #box4 {
     box-sizing: border-box;
     float: left;
     margin: 40px 940px 150px 300px;
     border: 1px solid;
-    padding: 40px 460px 500px 60px;
+    padding: 40px 460px 600px 60px;
     display: block;
     border-color: #dddddd;
     background-color: #ffffff;

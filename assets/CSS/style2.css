@@ -1,3 +1,4 @@
+/*clearfix styles page (unsure if it worked)*/
 .clearfix::after {
     content: " ";
     display: block;
